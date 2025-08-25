@@ -12,7 +12,7 @@ Este es el repositorio es un **fork** del curso "Algoritmos y Estructuras de Dat
   3. Diseño de algoritmos eficientes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/03_Disen%CC%83o_de_Algoritmos_Eficientes.ipynb)
       - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/03_Ejercicios.ipynb)
 -->
-  4. Estructuras de datos elementales [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/04_Estructuras_de_Datos_Elementales.ipynb)
+  2. Estructuras de datos elementales [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/04_Estructuras_de_Datos_Elementales.ipynb)
       - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/04_Ejercicios.ipynb)
  <!-- 5. Pilas, colas y colas de prioridad [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/05_Pilas_Colas_y_Colas_de_Prioridad.ipynb)
       - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/05_Ejercicios.ipynb)
