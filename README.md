@@ -6,14 +6,14 @@ Este es el repositorio es un **fork** del curso "Algoritmos y Estructuras de Dat
 
 ## Temario del Curso
   1. Repaso conceptos básicos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED-Apuntes/blob/main/contenidos/01_Introduccion.ipynb)
-      - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED-Apuntes/blob/main/contenidos/Ejercicios/01_Ejercicios.ipynb)
+      - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED-Apuntes/blob/main/Ejercicios/01_Ejercicios.ipynb)
 <!--  2. Métodos matemáticos para el análisis de algoritmos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/02_Metodos_Matematicos_para_el_Analisis_de_Algoritmos.ipynb)
       - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/02_Ejercicios.ipynb)
   3. Diseño de algoritmos eficientes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/03_Disen%CC%83o_de_Algoritmos_Eficientes.ipynb)
       - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/03_Ejercicios.ipynb)
 -->
   2. Estructuras de datos elementales [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED-Apuntes/blob/main/contenidos/04_Estructuras_de_Datos_Elementales.ipynb)
-      - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED-Apuntes/blob/main/Ejercicios/contenidos/04_Ejercicios.ipynb)
+      - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED-Apuntes/blob/main/Ejercicios/04_Ejercicios.ipynb)
  <!-- 5. Pilas, colas y colas de prioridad [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/05_Pilas_Colas_y_Colas_de_Prioridad.ipynb)
       - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/05_Ejercicios.ipynb)
   6. Diccionarios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/06_Diccionarios.ipynb)
